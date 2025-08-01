@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="Gf.gif">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=imezx&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="" /> 
     <br><br>
     <a href="https://github.com/imezx">
